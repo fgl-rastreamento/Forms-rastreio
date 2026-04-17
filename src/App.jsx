@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 // ─── CONFIG ────────────────────────────────────────────────
 const PRECO_BASE     = 59.90;
 const PRECO_BLOQUEIO = 20.00;
-const WHATSAPP       = "5511971003040";
+const WHATSAPP       = "5511971000304";
 
 const PERIODOS = [
   { id: "mensal",    label: "Mensal",    meses: 1,  desconto: 0,    sub: "por mês" },
